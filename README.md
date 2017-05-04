@@ -1,5 +1,7 @@
 # Quickshot 2.0
 
+This fork includes a fix to allow pages to update if the handle already exists. The original may be found [here](https://github.com/internalfx/quickshot)
+
 A (nearly) full rewrite from Iced Coffee Script to ES2015 JavaScript. Runs on node.js v6+.
 
 The changes consist of mostly cleanup and cruft removal. Adding new features has not been the primary goal.
