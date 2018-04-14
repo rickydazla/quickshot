@@ -1,4 +1,3 @@
-
 {
   "name": "quickshot",
   "description": "A shopify theme synchronizer",
@@ -10,8 +9,10 @@
   },
   "contributors": [
     "Brian Morris <https://github.com/internalfx>",
+    "Waldir Pimenta <https://github.com/waldyrious>",
     "Rick Davies <https://github.com/rickydazla>",
-    "Kevin Haugen <https://github.com/kevinhaugen>"
+    "Kevin Haugen <https://github.com/kevinhaugen>",
+    "Martin Bavio <https://github.com/mbavio>"
   ],
   "repository": {
     "type": "git",
