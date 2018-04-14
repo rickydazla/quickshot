@@ -1,18 +1,22 @@
+
 {
-  "name": "quickshot",
+  "name": "quickshot-redux",
   "description": "A shopify theme synchronizer",
   "version": "2.1.7",
-  "homepage": "https://github.com/crossfield/quickshot",
+  "homepage": "https://github.com/kevinhaugen/quickshot-redux",
   "author": {
-    "name": "Crossfield",
-    "url": "https://github.com/crossfield"
+    "name": "InternalFX",
+    "url": "https://github.com/internalfx"
   },
+  "contributors": [
+    "Kevin Haugen <https://github.com/kevinhaugen>"
+  ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/crossfield/quickshot/quickshot.git"
+    "url": "https://github.com/kevinhaugen/quickshot-redux.git"
   },
   "bugs": {
-    "url": "https://github.com/crossfield/quickshot/issues"
+    "url": "https://github.com/internalfx/quickshot/issues"
   },
   "license": "ISC",
   "keywords": [
