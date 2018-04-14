@@ -1,7 +1,5 @@
 # Quickshot 2.0
 
-This fork includes a fix to allow pages to update if the handle already exists. The original may be found [here](https://github.com/internalfx/quickshot)
-
 A (nearly) full rewrite from Iced Coffee Script to ES2015 JavaScript. Runs on node.js v6+.
 
 The changes consist of mostly cleanup and cruft removal. Adding new features has not been the primary goal.
@@ -13,7 +11,7 @@ However, there are a few:
 
 ### Installation
 
-`npm install -g quickshot-redux`
+`npm install -g quickshot`
 
 [![Join the chat at https://gitter.im/internalfx/quickshot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/internalfx/quickshot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![license](https://img.shields.io/npm/l/quickshot.svg)](https://github.com/internalfx/quickshot/blob/master/LICENSE)
