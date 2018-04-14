@@ -1,19 +1,21 @@
 
 {
-  "name": "quickshot-redux",
+  "name": "quickshot",
   "description": "A shopify theme synchronizer",
   "version": "2.1.7",
-  "homepage": "https://github.com/kevinhaugen/quickshot-redux",
+  "homepage": "https://github.com/internalfx/quickshot",
   "author": {
     "name": "InternalFX",
     "url": "https://github.com/internalfx"
   },
   "contributors": [
+    "Brian Morris <https://github.com/internalfx>",
+    "Rick Davies <https://github.com/rickydazla>",
     "Kevin Haugen <https://github.com/kevinhaugen>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kevinhaugen/quickshot-redux.git"
+    "url": "https://github.com/internalfx/quickshot.git"
   },
   "bugs": {
     "url": "https://github.com/internalfx/quickshot/issues"
